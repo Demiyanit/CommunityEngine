@@ -1,2 +1,2 @@
-# CommunityEngine
-A Community open source Engine
+#CommunityEngine
+A Community driven open source Engine
